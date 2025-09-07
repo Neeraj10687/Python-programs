@@ -1,3 +1,3 @@
 n=int(input("enter a number"))
 
-print(n+n*n+n*n*n)
+print(n+int(str(n)*2)+int(str(n)*3))
